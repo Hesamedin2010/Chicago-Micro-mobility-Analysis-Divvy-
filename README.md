@@ -16,7 +16,7 @@ Repository Structure
 │   ├── Python file - Chicago Micro-mobility Analysis (Divvy)          # Python script for data analysis
 │   ├── .ipynb - Chicago Micro-mobility Analysis (Divvy)               # Jupyter notebook with analysis code and descriptions
 │   ├── aHTML - Chicago Micro-mobility Analysis (Divvy)                # HTML version of the notebook
-│   └── Jupyter Codes pdf - Chicago Micro-mobility Analysis (Divvy)    # PDF version of the Jupyter notebook
+│   └── Python Codes pdf - Chicago Micro-mobility Analysis (Divvy)    # PDF version of the Jupyter notebook
 ├── report/                 # Contains the analysis report
 │   ├── Report - Chicago Micro-mobility Analysis (Divvy)               # Detailed analysis report in PDF format
 │   └── ...
